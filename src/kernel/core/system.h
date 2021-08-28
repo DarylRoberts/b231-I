@@ -26,14 +26,14 @@ class System
 		
 		
 	private:
-		User*		listuser;
+		User*		listener;
 	
 		File*		var;
 		
 		User*		actual;
 		User*		root;
 		
-		Variable*	uservar;
+		Variable*	observer;
 };
 
 extern System		sys;

@@ -67,15 +67,15 @@ jobs:
     "noEmit": false,
 
     "allowSyntheticDefaultImports": true
-
+import sys
   },
 
-  "exclude": [
+
+,"exclude": [
 
     "node_modules"
 
-  ],
-
+  ]
   "include": [
 
     "*.d.ts",
